@@ -1,0 +1,13 @@
+/*.csproj
+/*.unityproj
+/*.sln
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+
+library/
+temp/
+oobj/
+Buld
